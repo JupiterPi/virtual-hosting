@@ -1,0 +1,10 @@
+[
+  {
+    "host": "localhost",
+    "target": "http://w.jupiterpi.de:64105"
+  },
+  {
+    "host": "127.0.0.1",
+    "target": "http://w.jupiterpi.de:64107"
+  }
+]
