@@ -1,10 +1,22 @@
-[
-  {
-    "host": "localhost:63000",
-    "target": "http://w.jupiterpi.de:64105"
-  },
-  {
-    "host": "127.0.0.1:63000",
-    "target": "http://w.jupiterpi.de:63107"
-  }
-]
+{
+  "http": [
+    {
+      "host": "localhost:63000",
+      "target": "http://w.jupiterpi.de:64105"
+    },
+    {
+      "host": "127.0.0.1:63000",
+      "target": "http://w.jupiterpi.de:63107"
+    }
+  ],
+  "https": [
+    {
+      "host": "localhost:63000",
+      "target": "http://w.jupiterpi.de:64105"
+    },
+    {
+      "host": "127.0.0.1:63000",
+      "target": "http://w.jupiterpi.de:63107"
+    }
+  ]
+}
